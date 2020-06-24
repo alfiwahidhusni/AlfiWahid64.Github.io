@@ -1,0 +1,24 @@
+html {
+  background-color: lightblue;
+}
+header{
+			text-align: center;
+			background-color: darkslategray;
+			margin-right: 250px;
+			margin-left: 250px;
+			border:solid;
+			border-radius: 5%;
+			color: white;
+			border-color: black;
+			font-family: cursive;
+				font-size: 50px;
+			}
+			p {color: white
+  font-family: serif;
+  font-size: 30px;
+}
+			img{
+	border-radius: 50%;
+	width: 300px;
+	height: 200px;
+}
